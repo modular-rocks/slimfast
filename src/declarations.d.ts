@@ -1,4 +1,4 @@
-declare module '@modular-rocks/workspace';
+declare module '@modular-rocks/slimfast';
 interface RandomObject extends Record<string, any> {}
 interface FilesContainer extends Record<string, FileContainerType> {}
 

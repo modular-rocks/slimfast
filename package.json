@@ -1,6 +1,6 @@
 {
   "name": "@modular-rocks/slimfast",
-  "version": "0.0.1-development",
+  "version": "0.0.2-development",
   "description": "Slimfast puts your code base on a diet with automatic modularisation. This is the Slimfast base that all language versions can extend from.",
   "main": "./dist/index.js",
   "exports": {
