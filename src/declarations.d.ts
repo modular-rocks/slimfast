@@ -40,6 +40,7 @@ interface CodebaseType {
   saveFile: Function;
   fromJson: Function;
   extractFiles: Function;
+  save: Function;
 }
 
 interface FileContainerType {
