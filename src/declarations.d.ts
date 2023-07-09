@@ -7,7 +7,8 @@ interface Options {
   src: string;
   extensions: string[];
   ignoredFiles: string[];
-  packageContents: RandomObject;
+  packageContents?: PackageContents;
+  packagePath?: string;
   ignoredImports: string[];
   custom?: Custom;
 }
