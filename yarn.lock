@@ -637,17 +637,17 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@modular-rocks/traverse-files@0.2.4-development":
-  version "0.2.4-development"
-  resolved "https://registry.yarnpkg.com/@modular-rocks/traverse-files/-/traverse-files-0.2.4-development.tgz#51b9f21e7bd894253651a44202928f6165be632e"
-  integrity sha512-IN0NgG7wTfPzpIk8AcOtEYbFwm/Co5cVjp1pvcbHAhLosjudeVQw3GlSlo51RvGju/gy/8hUW8GrM9CnlFlXYA==
+"@modular-rocks/traverse-files@0.2.5-development":
+  version "0.2.5-development"
+  resolved "https://registry.yarnpkg.com/@modular-rocks/traverse-files/-/traverse-files-0.2.5-development.tgz#586103cb9c0fed11ffba90db63a1698f290dfaec"
+  integrity sha512-2/o4mv3bMdhumvvbU1wp1kJ4NBI8DkTwkOR01AMJ6V4RoH8wLPKH8v7pr8mUkcNB4qWmLV+KYzzpzR6hSuk4HA==
 
-"@modular-rocks/workspace@0.0.4-development":
-  version "0.0.4-development"
-  resolved "https://registry.yarnpkg.com/@modular-rocks/workspace/-/workspace-0.0.4-development.tgz#a332c30b45ddb8c53bada9167b14b6616985a89e"
-  integrity sha512-JMHriv9HZcjOon4m10qEwpE4/XGbLW+iLskyoemn3uuNk/gx2zD9pFilSYvyMYStpiUQTQ7CKclsorTtzNiDSQ==
+"@modular-rocks/workspace@0.1.0-development":
+  version "0.1.0-development"
+  resolved "https://registry.yarnpkg.com/@modular-rocks/workspace/-/workspace-0.1.0-development.tgz#954537cae6bb351fea105fe188c602038b751cb0"
+  integrity sha512-Q3PWAh0rypVyWwe+tWVbf2yvQGazQwm2msUeGiajyL3QVBtq0DzVpQpiZfUn2W14I7bGtXfwHfly1WWtqeikFg==
   dependencies:
-    "@modular-rocks/traverse-files" "0.2.4-development"
+    "@modular-rocks/traverse-files" "0.2.5-development"
 
 "@nicolo-ribaudo/semver-v6@^6.3.3":
   version "6.3.3"
