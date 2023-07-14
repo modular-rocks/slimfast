@@ -12,14 +12,15 @@ or
 
 `yarn add @modular-rocks/slimfast` 
 
-
 ## Usage
 
 Slimfast is a workspace designed to take a codebase and create a refactored version of it. Read more about [Workspaces here](https://github.com/modular-rocks/workspace).
 
 To use Slimfast, use one of the framework specific versions below:
 
-Coming later today...
+[Slimfast-node](https://github.com/modular-rocks/slimfast-node)
+
+[Slimfast](https://github.com/modular-rocks/slimfast/blob/main/src/index.ts) simply creates two versions of the same codebase and modularises one. This is the base for building environment/language specific versions, read more about [slimfast-node here](https://github.com/modular-rocks/slimfast-node).
 
 ## License
 
